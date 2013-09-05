@@ -5,6 +5,8 @@
 #include "..\..\Progra2 Archivos\numeros.h"
 int main()
 {
+
+
     const char opciones[][30]={"NFVMQ",
                                "Numeros",
                                "Fechas",
